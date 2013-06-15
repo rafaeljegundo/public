@@ -6,7 +6,7 @@ My public self, following the lead from [Buster Benson](http://github.com/buster
 ### Todo
 
 * Beliefs.md
-* Heros.md (dead & alive)
+* Heroes.md (dead & alive)
 * Values.md
 
 ### To play with QS data and APIs
