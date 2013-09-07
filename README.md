@@ -3,6 +3,8 @@ public
 
 My public self, following the lead from [Buster Benson](http://github.com/busterbenson/public)
 
+Others inspirations: https://github.com/frabcus/house
+
 ### Todo
 
 * Beliefs.md
